@@ -16,9 +16,10 @@ robust, maintainable, and free from common pitfalls.
 
 ## Projects
 
-- **[DCLint](https://github.com/docker-compose-linter/dclint)** – CLI for static analysis of Docker Compose files.
+- **[DCLint](https://github.com/zavoloklom/docker-compose-linter)** – CLI for static analysis of Docker Compose files.
 - **[GitHub Action](https://github.com/docker-compose-linter/dclint-github-action)** – GitHub Action for CI integration.
 - **[Hook for pre-commit](https://github.com/docker-compose-linter/pre-commit-dclint)** – pre-commit hook.
+- **[Gitlab Group](https://gitlab.com/dclint)** – contains GitLab-specific integrations and examples.
 
 ## Features
 
@@ -42,6 +43,9 @@ If you have any questions or suggestions, feel free to reach out:
 - **Х/Twitter**: [zavoloklom](https://x.com/zavoloklom)
 - **Instagram**: [zavoloklom](https://www.instagram.com/zavoloklom/)
 - **GitHub**: [zavoloklom](https://github.com/zavoloklom)
+
+A detailed devlog and roadmap for DCLint is available on Patreon:
+[patreon.com/c/zavoloklom](https://www.patreon.com/c/zavoloklom)
 
 Also, you can support this project with a one-time donation or becoming a sponsor:
 
