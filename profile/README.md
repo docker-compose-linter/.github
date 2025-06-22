@@ -1,6 +1,6 @@
 <!-- markdownlint-disable MD013 MD033 -->
 <h1 align="center">
-    <img src="../assets/logo-grey.svg" alt="Docker Compose Linter Logo" height="192" width="auto" />
+    <img src="https://github.com/docker-compose-linter/.github/raw/main/assets/logo-grey.svg" alt="Docker Compose Linter Logo" height="192" width="auto" />
     <br>
     Docker Compose Linter
 </h1>
